@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @wolf3w
 - 👀 I’m interested in Functional Programming, Android
-- 🌱 I’m currently learning: Java, Kotlin, Haskell
+- 🌱 I’m currently learning: Kotlin, Haskell
